@@ -16,7 +16,8 @@ Project outcome: developed a framework and built a user-friendly toolbox for noi
 
 Project details: The toolbox helps researchers plan experiments based on the characteristics of the variables being studied (e.g., measurement noise) and practical constraints (e.g., recruitment budget). It recommends experiment designs and visualizes the expected data.
 
-Skills: 
+Skills:
+
 - Statistical modeling & simulation
 - Quantitative research methods
 - Data visualization
