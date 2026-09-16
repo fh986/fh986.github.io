@@ -24,9 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a PhD candidate in Cognition and Perception at [New York University](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html), working with [Prof. Jonathan Winawer](https://wp.nyu.edu/winawerlab/people/) and [Prof. Denis Pelli](https://www.pellilab.com/people) on how reading is affected by the limits of visual perception. In summer 2026, I was fortunate to work at [Dolby](https://www.dolby.com/), bringing my expertise in vision science to the world of video-viewing experiences. 
+Welcome! I am a PhD candidate in Cognition and Perception at [New York University](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html), working with [Prof. Jonathan Winawer](https://wp.nyu.edu/winawerlab/people/) and [Prof. Denis Pelli](https://www.pellilab.com/people) on how reading is affected by the limits of visual perception. In summer 2026, I was fortunate to work at [Dolby](https://www.dolby.com/), bringing my expertise in vision science to the world of video-viewing experiences.
 
 Here are some questions that I'm thinking about these days:
+
 - What explains individual differences in the limits of people's visual perception, like visual acuity and susceptibility to visual crowding?
 - How does measures of visual performance relate to applied contexts like reading and video viewing?
 - How can we measure visual performance accurately at a large scale?

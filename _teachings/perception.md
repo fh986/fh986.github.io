@@ -70,16 +70,14 @@ term: Fall
 #         url: /assets/pdf/example_pdf.pdf
 ---
 
-
 ## Course Description
-This course covers the fundamental facts and concepts of perceptual psychology and sensory neuroscience — an interdisciplinary field spanning psychology, biology, and engineering. Topics covered include psychophysics and signal detection, neuroscience methods, transduction, cortical organization. 
+
+This course covers the fundamental facts and concepts of perceptual psychology and sensory neuroscience — an interdisciplinary field spanning psychology, biology, and engineering. Topics covered include psychophysics and signal detection, neuroscience methods, transduction, cortical organization.
 
 ## My Responsibilities
 
 As the recitation leader, I teach two discussion sessions a week, where I present topics from and beyond the lectures and textbook, helping students review and digest the course materials. I also hold office hours and create materials like quizzes and exams.
 
-
 ## Textbook
 
 - "Sensation and Perception" by Wolfe et al.
-

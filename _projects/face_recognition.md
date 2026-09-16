@@ -2,7 +2,7 @@
 layout: page
 title: Visual experiences shape recognition
 description: (MIT) Visual deprivation affects the development of face and object recognition differently.
-img: 
+img:
 importance: 6
 ---
 
@@ -15,5 +15,6 @@ Project outcome: Revealed that object recognition abilities, but not face recogn
 Project details: Analyzed a 12-year longitudinal dataset with 100+ participants that tracks visual and cognitive development of children who experienced early visual deprivation.
 
 Skills:
-- Longitudinal data analysis 
+
+- Longitudinal data analysis
 - Large-scale data analysis

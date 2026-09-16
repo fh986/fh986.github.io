@@ -7,6 +7,7 @@ importance: 4
 # category: work
 # giscus_comments: true
 ---
+
 Check out my VSS 2025 poster [here](/assets/pdf/Bruns_VSS25_poster.pdf)!
 
 Motivation: We need to effectively correct for noise in psychological measurements to ensure robust insights.

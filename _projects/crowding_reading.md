@@ -13,7 +13,7 @@ Context: Digital reading platforms serve diverse users, yet reading ability vari
 
 Goal: Develop a data-driven framework to measure and predict reading speed, guiding text design that maximizes comprehension and efficiency.
 
-Key Deliverables: 
+Key Deliverables:
 Created a quantitative metric that explains the largest variance in reading speed, offering actionable insights for UX Engineering to personalize reading experiences.
 Research methodology and findings were presented to peer researchers at NYU Miniconvention, 2025.
 
@@ -24,7 +24,7 @@ Project Leadership: Served as lead researcher, ensuring timely execution. Aligne
 Experimental Design: Strategically calibrated the online experiment to prioritize UX efficiency (streamlined interface, minimized duration) and data reliability (rigorously controlled variables for high empirical fidelity).
 
 Skills:
+
 - Online psychophysics
 - Usability testing
 - Large-scale data analysis
-
