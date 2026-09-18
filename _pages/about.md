@@ -32,4 +32,4 @@ Here are some questions that I'm thinking about these days:
 - How does measures of visual performance relate to applied contexts like reading and video viewing?
 - How can we measure visual performance accurately at a large scale?
 
-I am looking for internships for summer, 2027! If you think I'm a good fit, please feel free reach out to me on [LinkedIn](www.linkedin.com/in/fengping-helen-hu-b43b89174) or email me at fh986 -at- nyu -dot- edu.
+I am looking for internships for summer, 2027! If you think I'm a good fit, please feel free reach out to me on [LinkedIn](https://www.linkedin.com/in/fengping-helen-hu-b43b89174) or email me at fh986 -at- nyu -dot- edu.
