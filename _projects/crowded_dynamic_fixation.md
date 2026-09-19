@@ -8,23 +8,17 @@ importance: 2
 
 Check out the [published paper](https://jov.arvojournals.org/article.aspx?articleid=2811427) and my [VSS 2025 poster](/assets/pdf/Hu_VSS25_poster_0512.pdf)!
 
-
-
 <h2 style="margin-top: 2.5rem; margin-bottom: 1rem;">The challenge</h2>
 
 **Make online vision testing reliable without specialized equipment.**
 
 Online testing can dramatically scale vision research to larger, more diverse participant pools, but accurate gaze control remains a major barrier. Built-in webcam tracking is too imprecise for many tests of visual performance. Even small gaze shifts can corrupt measurements. **The challenge was to preserve data quality at online scale—without extra hardware or making the experience harder for participants.**
 
-
-
 <h2 style="margin-top: 2.5rem; margin-bottom: 1rem;">The approach</h2>
 
 **Balance measurement accuracy with the participant experience.**
 
 I developed and validated a gaze-control method using eye tracking, visual-task performance, and participants’ reported effort and comfort. Working closely with software engineers, I prototyped and helped integrate the method into EasyEyes, a web app for online vision testing, and conducted user studies to inform feature improvements.
-
-
 
 <h2 style="margin-top: 2.5rem; margin-bottom: 1rem;">The impact</h2>
 

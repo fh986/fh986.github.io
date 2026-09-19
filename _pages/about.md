@@ -28,8 +28,8 @@ Welcome! I am a PhD candidate in Cognition and Perception at [New York Universit
 
 Here are some questions I am thinking about these days:
 
-* What explains individual differences in visual abilities, such as acuity and susceptibility to visual crowding?
-* How do measures of visual performance translate to real-world experiences like reading and video viewing?
-* How can we measure visual performance accurately and at scale?
+- What explains individual differences in visual abilities, such as acuity and susceptibility to visual crowding?
+- How do measures of visual performance translate to real-world experiences like reading and video viewing?
+- How can we measure visual performance accurately and at scale?
 
 I am looking for internships for summer 2027! If you think I might be a good fit, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fengping-helen-hu-b43b89174) or email me at fh986 -at- nyu -dot- edu.
