@@ -24,12 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a PhD candidate in Cognition and Perception at [New York University](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html), working with [Prof. Jonathan Winawer](https://wp.nyu.edu/winawerlab/people/) and [Prof. Denis Pelli](https://www.pellilab.com/people) on how reading is affected by the limits of visual perception. In summer 2026, I was fortunate to work at [Dolby](https://www.dolby.com/), bringing my expertise in vision science to the world of video-viewing experiences.
+Welcome! I am a PhD candidate in Cognition and Perception at [New York University](https://as.nyu.edu/departments/psychology/graduate/phd-cognition-perception.html), working with [Prof. Jonathan Winawer](https://wp.nyu.edu/winawerlab/) and [Prof. Denis Pelli](https://www.pellilab.com/) to understand how the limits of visual perception shape reading. In summer 2026, I had the opportunity to work at [Dolby](https://www.dolby.com/), applying my expertise in vision science to video-viewing experiences.
 
-Here are some questions that I'm thinking about these days:
+Here are some questions I am thinking about these days:
 
-- What explains individual differences in the limits of people's visual perception, like visual acuity and susceptibility to visual crowding?
-- How does measures of visual performance relate to applied contexts like reading and video viewing?
-- How can we measure visual performance accurately at a large scale?
+* What explains individual differences in visual abilities, such as acuity and susceptibility to visual crowding?
+* How do measures of visual performance translate to real-world experiences like reading and video viewing?
+* How can we measure visual performance accurately and at scale?
 
-I am looking for internships for summer, 2027! If you think I'm a good fit, please feel free reach out to me on [LinkedIn](https://www.linkedin.com/in/fengping-helen-hu-b43b89174) or email me at fh986 -at- nyu -dot- edu.
+I am looking for internships for summer 2027! If you think I might be a good fit, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fengping-helen-hu-b43b89174) or email me at fh986 -at- nyu -dot- edu.
