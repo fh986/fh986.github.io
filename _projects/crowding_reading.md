@@ -38,7 +38,10 @@ The project identified **visual crowding as a key factor associated with differe
 The findings provide a foundation for predicting how visual constraints affect reading and for designing text experiences around measurable differences between users. These results offer actionable insights for UX Engineering to personalize reading experiences, supporting **adaptive UX design for more efficient text presentation**. 
 
 <h2 style="margin-top: 2.5rem; margin-bottom: 1rem;">The Skills</h2>
+
+
 - Quantitative UX Research
 - Large-scale Remote User Studies
-- Statistical & Regression Modeling
-
+- Multivariate Statistical Analysis
+- Regression
+- Computational Modeling (Descriptive Models, e.g., Generalized Linear Models; Process Models)
