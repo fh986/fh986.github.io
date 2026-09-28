@@ -7,4 +7,4 @@ importance: 1
 category: hobbies
 ---
 
-I was in Carleton College's Chinese Music Ensemble from 2019 to 2026. Check out [this video](https://www.youtube.com/watch?v=0MSo-1GGjus)!
+I was in Carleton College's Chinese Music Ensemble from 2019 to 2023. Check out [this video](https://www.youtube.com/watch?v=rmnj8X0eIZw)!
